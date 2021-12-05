@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/NekoChainGames.sol": "SafeMath"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/NekoChainGames.sol": {
+			"keccak256": "0xa9305c9c9fb97aea130e421b57061846a9625be0ba0cb47881cfea5b7d2f4eae",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://0b791b0ee9b52520becffe291b841aed4443835b98041bcbc1d5e359822f213b",
+				"dweb:/ipfs/Qmd8YuD4LPPkrcQBmYePaqkfRYt1hApTqFyQaK1FbBmeJ5"
+			]
+		}
+	},
+	"version": 1
+}
